@@ -1,6 +1,6 @@
 ## **Welcome to my GitHub Profile!**  😊 👋
 
-I am **Amirali Sahraei**. AI enthusiast honing my skills and eager to contribute to the field.
+I am **Amirali Sahraei** an Artificial Intelligence enthusiast, dedicated to exploring AI's complexities, with a focus on deep learning. I am passionate about pursuing a Ph.D. in Deep Learning and am eager to find a job in related fields. The opportunity to delve deeper into this cutting-edge area excites and motivates me. I aim to make a lasting impact by advancing the boundaries of knowledge and innovation in deep learning.
 
 
 💪 **Skills**

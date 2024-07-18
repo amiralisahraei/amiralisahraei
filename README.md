@@ -15,12 +15,8 @@ I am **Amirali Sahraei** an Artificial Intelligence enthusiast, dedicated to exp
 * Python Programming
 
 ## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amiralisahraei&theme=dark" />
-</a> <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiralisahraei&layout=compact&langs_count=8&card_width=220&theme=dark" />
-</a>
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=amiralisahraei&theme=dark)
+
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=amiralisahraei&theme=dark)](https://github.com/FajarKim/github-readme-profile)
 
 ## 🔗 Links
 

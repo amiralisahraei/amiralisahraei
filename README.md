@@ -20,7 +20,7 @@ I am **Amirali Sahraei** an Artificial Intelligence enthusiast, dedicated to exp
 </a> <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiralisahraei&layout=compact&langs_count=8&card_width=220&theme=dark" />
 </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiralisahraei&show_icons=true&theme=transparent)
+
 ## 🔗 Links
 
  **Gmail: a.sahraei98@gmail.com**

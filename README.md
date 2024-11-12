@@ -16,7 +16,7 @@ I am **Amirali Sahraei** an Artificial Intelligence enthusiast, dedicated to exp
 
 ## GitHub Stats
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=amiralisahraei&theme=dark)](https://github.com/FajarKim/github-readme-profile)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=amiralisahraei&theme=dark)](https://github.com/amiralisahraei)
 
 ## 🔗 Links
 

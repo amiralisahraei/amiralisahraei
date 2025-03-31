@@ -25,10 +25,10 @@
 ---
 
 ### 🔥 **Featured Projects**  
-[**Gmail ETL Categorization**](https://github.com/amiralisahraei/gmail-llm-categorization)  
-[**Agents-Based RAG System with LLM + Tavily**]()  
-[**FastAPI Lung CT Classification**]()  
-[**YOLOv8 Object Detection**]()  
+[**LLM Fine-Tuning with LoRA for GPT-2 and Model Evaluation**](https://github.com/amiralisahraei/gpt2-qa-finetuning)  
+[**Agents-Based RAG System with LLM + Tavily**](https://github.com/amiralisahraei/agent-rag-llm)  
+[**Gmail ETL Categorization**]([https://github.com/amiralisahraei/agent-rag-llm](https://github.com/amiralisahraei/gmail-llm-categorization))  
+[**Flask GPT app**](https://github.com/amiralisahraei/agent-rag-llm)  
 
 ---
 

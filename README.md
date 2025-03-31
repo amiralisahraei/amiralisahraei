@@ -34,13 +34,9 @@
 
 ### 📊 **GitHub Stats**  
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=amiralisahraei&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/amiralisahraei)  
-[![Top Languages](https://gh-readme-profile.vercel.app/api/top-langs/?username=amiralisahraei&layout=compact&theme=dark&hide_border=true)](https://github.com/amiralisahraei)  
 
 ---
 
 ### 📫 **Let’s Connect!**  
 📧 **Gmail**: [a.sahraei98@gmail.com](mailto:a.sahraei98@gmail.com)  
-🔗 **LinkedIn**: [Amirali Sahraei](www.linkedin.com/in/amirali-sahraei98/)  
-💼 **Resume**: [Download PDF](Amirali_Sahraei_CV.pdf)  
-
-🌟 *"Advancing AI through innovation—one model at a time."*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amirali-sahraei98/) 

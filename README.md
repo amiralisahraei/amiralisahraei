@@ -39,4 +39,5 @@
 
 ### 📫 **Let’s Connect!**  
 📧 **Gmail**: [a.sahraei98@gmail.com](mailto:a.sahraei98@gmail.com)  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amirali-sahraei98/) 

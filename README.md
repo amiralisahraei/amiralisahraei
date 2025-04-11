@@ -17,8 +17,8 @@
 ---
 
 ### 🏆 **Achievements**  
-- **Top 10%** in Kaggle Competition (2025)  
-  - Ranked **200/1924** using ensemble models (XGBoost, LightGBM) for rainfall prediction.  
+- **Top 38%** in Kaggle Competition (2025)  
+  - Ranked **1626/4381** using ensemble models (XGBoost, LightGBM) for rainfall prediction.  
 - **Certifications**: Finetuning LLMs, LangChain, CNN (DeepLearning.AI)  
 - **Research**: Published work on transformer optimization and AI-driven ETL systems.  
 
